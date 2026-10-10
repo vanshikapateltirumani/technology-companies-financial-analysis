@@ -98,10 +98,10 @@ This project is for educational and analytical purposes only. It is not investme
 ### Power BI Dashboard
 
 #### Financial Overview
-![Power BI Financial Overview](PowerBI_Financial_Overview.png.png)
+![Power BI Financial Overview](PowerBI_Financial_Overview.png)
 
 #### Growth & Profitability
-![Power BI Growth and Profitability](PowerBI_Growth_and_Profitability.png.png)
+![Power BI Growth and Profitability](PowerBI_Growth_and_Profitability.png)
 
 #### Financial Risk
-![Power BI Financial Risk](PowerBI_Financial_Risk.png.png)
+![Power BI Financial Risk](PowerBI_Financial_Risk.png)
