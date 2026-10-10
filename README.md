@@ -72,3 +72,36 @@ U.S. Securities and Exchange Commission (SEC), Company Facts data: https://www.s
 ## Disclaimer
 
 This project is for educational and analytical purposes only. It is not investment advice.
+
+## Visualizations
+
+### Python Analysis Charts
+
+#### 1. Average Revenue Growth by Company
+![Average Revenue Growth](chart_1_average_revenue_growth.png)
+
+#### 2. Average Net Profit Margin
+![Average Net Profit Margin](chart_2_average_net_profit_margin.png)
+
+#### 3. Average Return on Assets (ROA)
+![Average ROA](chart_3_average_roa.png)
+
+#### 4. Average Liability-to-Asset Ratio
+![Average Liability-to-Asset Ratio](chart_4_average_liability_to_asset.png)
+
+#### 5. Revenue Trends (FY2021–FY2025)
+![Revenue Trends](chart_5_revenue_trends.png)
+
+#### 6. Correlation Heatmap
+![Correlation Heatmap](chart_6_correlation_heatmap.png)
+
+### Power BI Dashboard
+
+#### Financial Overview
+![Power BI Financial Overview](PowerBI_Financial_Overview.png.png)
+
+#### Growth & Profitability
+![Power BI Growth and Profitability](PowerBI_Growth_and_Profitability.png.png)
+
+#### Financial Risk
+![Power BI Financial Risk](PowerBI_Financial_Risk.png.png)
